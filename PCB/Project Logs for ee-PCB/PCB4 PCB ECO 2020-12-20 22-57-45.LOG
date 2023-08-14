@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Added Member To Class: ClassName=Sheet2 Member=Component R3 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
